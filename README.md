@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
+  
+# Hey There! 👋
 
-<!--
-**Presnap/Presnap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  
+- 🔭 We currently working on an electronic football analyst
+  
+<br/>
+<div align="center">
 
-Here are some ideas to get you started:
+[![Presnap's GitHub Status][profile-badge]][website-url]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[profile-badge]: https://github-readme-stats.vercel.app/api?username=Presnap&title_color=ffffff&border_color=ffffff&bg_color=1c4508&text_color=ffffff&icon_color=ffffff&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true
+[website-url]: https://presnap.github.io
